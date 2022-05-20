@@ -4,8 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-AI Wizard Consultant for SMEs
-Building AI course project
+AI Wizard Consultant for SMEs - Building AI course project
 
 ## Summary
 
