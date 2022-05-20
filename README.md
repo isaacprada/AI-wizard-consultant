@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI Wizard Consultant for SMEs
 
 AI Wizard Consultant for SMEs - Building AI course project
 
@@ -19,7 +19,6 @@ In practice, key aspects to be dealt with as part of my management consulting wi
 
 The first stage is to analyse the current situation of the company and give a first diagnosis on the key areas to be tackled or with highest improvement potential. This can be done with the AI consultant and is already of very high value for the SME, which will receive a proposal with improvement measures at a reduced cost compared to hiring a well established consultancy firm. These measures come with a detailed explanation on how they should be implemented. The results obtained in this first phase will hopefully give confidence to the SME to invest a bit more in a second phase with human consultants!
 
-
 ## How is it used?
 
 The AI consultant will be used primarily by SME CEOs or C-level executives. They will input their company data following a structured questionnaire and this will be the basis for the first stage diagnosis. Natural Language Processing (NLP) will have to be used to a certain extent to collect and filter the input data. Therafter I envision the use of neural network model for the AI consultant itself.
@@ -29,15 +28,13 @@ The AI consultant will be used primarily by SME CEOs or C-level executives. They
 A first set of training data for the first optimization iterations of the AI model will be input by our team based on real cases of SME we have analyzed in the past.
 Then once we have a minimum viable version which appears to work more or less correctly we can start asking real companies to input their own data with our guidance.
 
-
 ## Challenges
 
 This AI-consultant is a wizard, which sounds smart, but it is not an experienced human consultant. It cannot pick up many of the nuances and details that make consulting an art, based on experience and methods, but not pure magic. However, for the first stages of a typical management consultancy project for an SME I have found over the years that most of the initial main problems and issues are common to most SMEs and an AI consultant can analyze them and offer a first-stage set of measures which can already have important positive results on the SME. However this consultant is not able to analyze complex or mixed problems or larger companies in general. Thankfully that's where humans can really help! 
 
 ## What next?
 
-My dream is for this AI consultant to become widely accessible for many SMEs, also in developing and under-developped countries, so that more data is gathered and can better help more SMEs. This is when funding would be required, to scale up the project and launch a pro-bono service for low-resource SMEs worldwide. Of course, from a technical standpoint, help and proposals from other AI experts and from other experienced management consultants would be very fruitful.
-
+My dream is for this AI consultant to become widely accessible for many SMEs, also in developing and under-developped countries, so that more data is gathered and can better help more SMEs. This is when funding would be required, to scale up the project and launch a pro-bono service for low-resource SMEs worldwide. Of course, from a technical standpoint, help and proposals from other AI experts and from other experienced management consultants would be very fruitful. Want to join and add a bit of your art and magic to the project?
 
 ## Acknowledgments
 
