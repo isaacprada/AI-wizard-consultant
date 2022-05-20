@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # AI Wizard Consultant for SMEs
 
-AI Wizard Consultant for SMEs - Building AI course project
+Building AI course project
 
 ## Summary
 
