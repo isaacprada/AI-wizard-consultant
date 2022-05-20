@@ -23,9 +23,7 @@ The first stage is to analyse the current situation of the company and give a fi
 
 ## How is it used?
 
-The AI consultant will be used primarily by SME CEOs or C-level executives. They will input their company data following a structured questionnaire and this will be the basis for the first stage diagnosis. Natural Language Processing (NLP) will have to be used to a certain extent to collect and filter the input data.
-
-
+The AI consultant will be used primarily by SME CEOs or C-level executives. They will input their company data following a structured questionnaire and this will be the basis for the first stage diagnosis. Natural Language Processing (NLP) will have to be used to a certain extent to collect and filter the input data. Therafter I envision the use of neural network model for the AI consultant itself.
 
 ## Data sources and AI methods
 
